@@ -1,0 +1,96 @@
+h1{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    font-family: monospace;
+    background color: none;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #2480B8;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 149.703px;
+    text-decoration: none;
+    font-size:21.12px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #FE950F;
+    color: white;
+}
+
+.pictureas {
+    background-color: #2480B8;
+    width: 150px ;
+    height: 150px ;
+}
+.shadowbox {
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: #2480B8;
+}
+
+img {
+    width: 350px;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    float: center;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    padding: 10px;
+    border-width: 10px
+
+}
+.page {
+    display: inline-block;
+    padding-left: 40px;
+    padding-right: 40px;
+    float: center;
+}
+
+.page h4 {
+    text-align: center;
+}
+
+.hoimemydomie {
+    float: center;
+    text-align: center;
+    text-align: center;
+    color:black;
+    font-size: 25px;
+    
+    font-family: monospace;
+    background color: none;
+}
+.actpic {
+    text-align: center;
+    color:black;
+    font-size: 15px;
+    font-family: monospace;
+    background color: none;
+}
+.yamumfam {
+   width: 1415px;
+    height: 100px;
+    float: center;
+}
+}
+.obeseisgay {
+   width: 1415px;
+    height: 100px;
+    float: center;
+}
+.nk {
+    float: left;
+}
